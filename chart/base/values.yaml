@@ -43,10 +43,7 @@ vcsInfo:
   repoUrl: ""
   branch: ""
 
-partOf: inventory
-
-connectsTo:
-  - inventory-management-svc-solution
+partOf: multicloud-demo
 
 runtime: java
 
